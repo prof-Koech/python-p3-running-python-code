@@ -1,1 +1,3 @@
-print ('hello world!')
+
+print("Hello Word!")
+print("Hello World! Pass this test, please.")
